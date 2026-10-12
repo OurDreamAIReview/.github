@@ -1,8 +1,8 @@
 # OurDream AI Review: Chat, Images, Video and Voice
 
-OurDream AI is an adult AI companion you use in the browser. You build a character or pick one from the community library, then chat, generate images, make short clips and place voice calls in the same thread. This page is an editorial overview, not an official site. Links to try the product are affiliate links. We may earn a commission if you sign up, at no extra cost to you. 18+ only.
+[![OurDream AI](./banner.png)](https://chubby-gf.com/git1)
 
-[![Try OurDream AI](./banner-ourdream.png)](https://chubby-gf.com/git1)
+OurDream AI is an adult AI companion you use in the browser. You build a character or pick one from the community library, then chat, generate images, make short clips and place voice calls in the same thread. This page is an editorial overview, not an official site. Links to try the product are affiliate links. We may earn a commission if you sign up, at no extra cost to you. 18+ only.
 
 **[Try OurDream AI](https://chubby-gf.com/git1)** · affiliate link
 
@@ -38,8 +38,6 @@ Coin costs and plan limits move. Treat any number you see on a review as uncheck
 ## Who it is for
 
 Use it if you want an 18+ character you can talk to and also see and hear. Skip it if you only want a free unlimited chatbot, if you need clinical support, or if you are not comfortable with an adult roleplay product that stores personal chats.
-
-[![Start with OurDream](./cta-start.png)](https://chubby-gf.com/git1)
 
 **[Create a character on OurDream](https://chubby-gf.com/git1)** · affiliate link
 
@@ -78,8 +76,6 @@ Before you pay, open the upgrade screen and check:
 2. Pick a community character or build one: look, voice, personality.
 3. Talk first. Add an image only after the character feels right.
 4. Check the coin balance before you generate video or start a call.
-
-[![Open OurDream AI](./banner-footer.png)](https://chubby-gf.com/git1)
 
 ## Privacy
 
